@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Jiraroth (Fluk) 👋
+
+[![My GitHub Stats](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api?username=Jiraroth&show_icons=true&count_private=true)](https://github.com/Jiraroth)  
+[![Top Languages](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api/top-langs?username=Jiraroth&layout=compact&count_private=true&theme=dark)](https://github.com/Jiraroth)
+
+---
 
 <!--
 **Jiraroth/Jiraroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +18,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### About me
+
+… (เขียนเกี่ยวกับตัวคุณ) …
+
 -->
-[![Top Languages](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api/top-langs?username=Jiraroth&layout=compact&count_private=true)](https://github.com/Jiraroth)
 
 
