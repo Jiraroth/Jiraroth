@@ -1,8 +1,6 @@
 # Hi, I'm Jiraroth (Fluk) 👋
 
-[![Top Languages](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api/top-langs?username=Jiraroth&layout=compact&count_private=true&theme=dark)](https://github.com/Jiraroth)
-![Top Languages](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api/top-langs?username=Jiraroth&layout=compact&count_private=true&theme=dark)
-[![Top Languages](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api/top-langs?username=Jiraroth&layout=compact&count_private=true)](https://github.com/Jiraroth)
+[![Top Languages](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api/top-langs?username=Jiraroth&layout=compact&count_private=true&theme=dark)]([https://github.com/Jiraroth](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api/top-langs?username=Jiraroth&layout=compact&count_private=true&theme=dark))
 
 
 
@@ -10,6 +8,7 @@
 
 <!--
 **Jiraroth/Jiraroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Languages](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api/top-langs?username=Jiraroth&layout=compact&count_private=true&theme=dark)](https://github.com/Jiraroth)
 
 Here are some ideas to get you started:
 
