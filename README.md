@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My GitHub Stat](https://YOUR_INSTANCE_DOMAIN/api?username=Jiraroth&count_private=true&show_icons=true)](https://github.com/Jiraroth)
+[![GitHub followers](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api?username=Jiraroth&show_icons=true&count_private=true)](https://github.com/Jiraroth)
 
-[![Top Langs](https://YOUR_INSTANCE_DOMAIN/api/top-langs?username=Jiraroth&layout=compact)](https://github.com/Jiraroth)
+[![Top Languages](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api/top-langs?username=Jiraroth&layout=compact)](https://github.com/Jiraroth)
 
-[![My GitHub Stat](https://YOUR_INSTANCE_DOMAIN/api?username=Jiraroth&layout=compact&show_icons=true&count_private=true)](https://github.com/Jiraroth)
 
 
