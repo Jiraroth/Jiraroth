@@ -1,8 +1,13 @@
 # Hi, I'm Jiraroth (Fluk) 👋
 
+<!--
 [![Top Languages](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api/top-langs?username=Jiraroth&layout=compact&count_private=true&theme=dark)](https://github-readme-stats-git-master-jiraroths-projects.vercel.app/api/top-langs?username=Jiraroth&layout=compact&count_private=true&theme=dark)
 
 [![Jiraroth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiraroth&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
+[![Jiraroth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiraroth&layout=compact&count_private=true&theme=dark&title=Top+Languages&title_color=7eace1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
